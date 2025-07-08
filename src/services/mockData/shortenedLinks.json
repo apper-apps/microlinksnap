@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "originalUrl": "https://www.example.com/very-long-url-that-needs-shortening",
+    "shortCode": "abc123",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "clickCount": 25,
+    "qrCode": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+PHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9IiNmOGZhZmMiLz48dGV4dCB4PSI1MCIgeT0iNTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIwLjM1ZW0iIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOCI+UVI6YWJjMTIzPC90ZXh0Pjwvc3ZnPg=="
+  },
+  {
+    "Id": 2,
+    "originalUrl": "https://github.com/user/repository/issues/123",
+    "shortCode": "gh456",
+    "createdAt": "2024-01-14T15:45:00Z",
+    "clickCount": 8,
+    "qrCode": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+PHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9IiNmOGZhZmMiLz48dGV4dCB4PSI1MCIgeT0iNTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIwLjM1ZW0iIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOCI+UVI6Z2g0NTY8L3RleHQ+PC9zdmc+"
+  },
+  {
+    "Id": 3,
+    "originalUrl": "https://docs.google.com/document/d/1234567890abcdef/edit",
+    "shortCode": "doc789",
+    "createdAt": "2024-01-13T09:20:00Z",
+    "clickCount": 42,
+    "qrCode": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+PHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9IiNmOGZhZmMiLz48dGV4dCB4PSI1MCIgeT0iNTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIwLjM1ZW0iIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOCI+UVI6ZG9jNzg5PC90ZXh0Pjwvc3ZnPg=="
+  }
+]
